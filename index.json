@@ -1,0 +1,376 @@
+{
+  "schema": 1,
+  "baseUrl": "https://www.lnelab.com/dfu/",
+  "source": "https://github.com/lnelab/dfu-package",
+  "models": {
+    "0x4c4e:0x2011": {
+      "name": "LINKPAD",
+      "latest": {
+        "release": "2025.01",
+        "version": 9473,
+        "date": "2025-06-23",
+        "file": "sirius_linkpad_2501.zip",
+        "size": 145319,
+        "sha256": "7e8f302a58ccf4b20a711fd3d633a0d599845230f68fd868a5f0f1be003cc702",
+        "url": "https://www.lnelab.com/dfu/sirius_linkpad_2501.zip"
+      },
+      "history": [
+        {
+          "release": "2025.01",
+          "version": 9473,
+          "date": "2025-06-23",
+          "file": "sirius_linkpad_2501.zip",
+          "size": 145319,
+          "sha256": "7e8f302a58ccf4b20a711fd3d633a0d599845230f68fd868a5f0f1be003cc702",
+          "url": "https://www.lnelab.com/dfu/sirius_linkpad_2501.zip"
+        },
+        {
+          "release": "2024.03",
+          "version": 9219,
+          "date": "2025-03-22",
+          "file": "sirius_linkpad_2403.zip",
+          "size": 143863,
+          "sha256": "61013aa213cd329ca3fab6f42c356ffd1187cfdeae77295448d836ccc8677525",
+          "url": "https://www.lnelab.com/dfu/sirius_linkpad_2403.zip"
+        }
+      ]
+    },
+    "0x4c4e:0x2012": {
+      "name": "LINKPAD 1U",
+      "latest": {
+        "release": "2025.01",
+        "version": 9473,
+        "date": "2025-06-24",
+        "file": "sirius_linkpad_1u_2501.zip",
+        "size": 145705,
+        "sha256": "866de9ea33b80cdce134e850c4f2d4f6b119bd7f89f3635ec441bc786566fc8c",
+        "url": "https://www.lnelab.com/dfu/sirius_linkpad_1u_2501.zip"
+      },
+      "history": [
+        {
+          "release": "2025.01",
+          "version": 9473,
+          "date": "2025-06-24",
+          "file": "sirius_linkpad_1u_2501.zip",
+          "size": 145705,
+          "sha256": "866de9ea33b80cdce134e850c4f2d4f6b119bd7f89f3635ec441bc786566fc8c",
+          "url": "https://www.lnelab.com/dfu/sirius_linkpad_1u_2501.zip"
+        },
+        {
+          "release": "2024.03",
+          "version": 9219,
+          "date": "2025-03-22",
+          "file": "sirius_linkpad_1u_2403.zip",
+          "size": 143689,
+          "sha256": "0c1a086a7bb7223bd5db7660a3d4887df89521a58dcd76c7be729d5c0a99388e",
+          "url": "https://www.lnelab.com/dfu/sirius_linkpad_1u_2403.zip"
+        }
+      ]
+    },
+    "0x4c4e:0x2013": {
+      "name": "LINKPAD SPLIT",
+      "half": "master",
+      "latest": null,
+      "history": []
+    },
+    "0x4c4e:0x2014": {
+      "name": "LINKPAD R",
+      "half": "slave",
+      "latest": null,
+      "history": []
+    },
+    "0x4c4e:0x2031": {
+      "name": "Hammer",
+      "latest": {
+        "release": "2026.09",
+        "version": 9737,
+        "date": "2026-09-22",
+        "file": "lne_hammer_2609.zip",
+        "size": 123633,
+        "sha256": "6e67961465175f6da3cb34ed11499502a40e0708612ecbfd8888f847d1098017",
+        "url": "https://www.lnelab.com/dfu/lne_hammer_2609.zip"
+      },
+      "history": [
+        {
+          "release": "2026.09",
+          "version": 9737,
+          "date": "2026-09-22",
+          "file": "lne_hammer_2609.zip",
+          "size": 123633,
+          "sha256": "6e67961465175f6da3cb34ed11499502a40e0708612ecbfd8888f847d1098017",
+          "url": "https://www.lnelab.com/dfu/lne_hammer_2609.zip"
+        }
+      ]
+    },
+    "0x4c4e:0x2041": {
+      "name": "Ursa Major",
+      "half": "master",
+      "latest": {
+        "release": "2026.09",
+        "version": 9737,
+        "date": "2026-09-26",
+        "file": "sirius_um_left_2609.zip",
+        "size": 133155,
+        "sha256": "77e9417163b959c49321eefe45304ac031c6d56554142511ab234cbcff4fb747",
+        "url": "https://www.lnelab.com/dfu/sirius_um_left_2609.zip"
+      },
+      "history": [
+        {
+          "release": "2026.09",
+          "version": 9737,
+          "date": "2026-09-26",
+          "file": "sirius_um_left_2609.zip",
+          "size": 133155,
+          "sha256": "77e9417163b959c49321eefe45304ac031c6d56554142511ab234cbcff4fb747",
+          "url": "https://www.lnelab.com/dfu/sirius_um_left_2609.zip"
+        },
+        {
+          "release": "2025.01",
+          "version": 9473,
+          "date": "2025-06-17",
+          "file": "sirius_um_left_2501.zip",
+          "size": 128679,
+          "sha256": "dc2e9f50640c77a813567c2a476204c4f200c924c539e8513aa2d6906efdd143",
+          "url": "https://www.lnelab.com/dfu/sirius_um_left_2501.zip"
+        },
+        {
+          "release": "2024.02",
+          "version": 9218,
+          "date": "2025-03-22",
+          "file": "sirius_um_left_2402.zip",
+          "size": 126375,
+          "sha256": "fcd389dea8c2c9d5172f745d6387bfc4c8ef450ba5be1b4d620de3bc531b993c",
+          "url": "https://www.lnelab.com/dfu/sirius_um_left_2402.zip"
+        }
+      ]
+    },
+    "0x4c4e:0x2042": {
+      "name": "Ursa Major",
+      "half": "slave",
+      "latest": {
+        "release": "2025.01",
+        "version": 9473,
+        "date": "2025-06-17",
+        "file": "sirius_um_right_2501.zip",
+        "size": 86645,
+        "sha256": "d31f183139d0fd665b82fbbf2d758e1e69cc1b87b979f668fe7e7fd563be9e5a",
+        "url": "https://www.lnelab.com/dfu/sirius_um_right_2501.zip"
+      },
+      "history": [
+        {
+          "release": "2025.01",
+          "version": 9473,
+          "date": "2025-06-17",
+          "file": "sirius_um_right_2501.zip",
+          "size": 86645,
+          "sha256": "d31f183139d0fd665b82fbbf2d758e1e69cc1b87b979f668fe7e7fd563be9e5a",
+          "url": "https://www.lnelab.com/dfu/sirius_um_right_2501.zip"
+        },
+        {
+          "release": "2024.02",
+          "version": 9218,
+          "date": "2025-03-22",
+          "file": "sirius_um_right_2402.zip",
+          "size": 86645,
+          "sha256": "1babe5a56c081a3a6ae75768c3b805b8a80b84170d75dd3142bb8fb23a4cc9de",
+          "url": "https://www.lnelab.com/dfu/sirius_um_right_2402.zip"
+        }
+      ]
+    },
+    "0x4c4e:0x2051": {
+      "name": "MeowTool mini BLE",
+      "latest": {
+        "release": "2025.01",
+        "version": 9473,
+        "date": "2025-07-01",
+        "file": "sirius_meowtool_mini_ble_2501.zip",
+        "size": 144627,
+        "sha256": "880b32cf9539cdc70be24978c5de4648a258fae9f42a0b92949595d375edfcbd",
+        "url": "https://www.lnelab.com/dfu/sirius_meowtool_mini_ble_2501.zip"
+      },
+      "history": [
+        {
+          "release": "2025.01",
+          "version": 9473,
+          "date": "2025-07-01",
+          "file": "sirius_meowtool_mini_ble_2501.zip",
+          "size": 144627,
+          "sha256": "880b32cf9539cdc70be24978c5de4648a258fae9f42a0b92949595d375edfcbd",
+          "url": "https://www.lnelab.com/dfu/sirius_meowtool_mini_ble_2501.zip"
+        },
+        {
+          "release": "2024.02",
+          "version": 9218,
+          "date": "2025-03-22",
+          "file": "sirius_meowtool_mini_ble_2402.zip",
+          "size": 142547,
+          "sha256": "cafb88dd7a691dac4d41badb0ebf902246f8c4b3b1fe8db87b98ae057ce16197",
+          "url": "https://www.lnelab.com/dfu/sirius_meowtool_mini_ble_2402.zip"
+        }
+      ]
+    },
+    "0x4c4e:0x2052": {
+      "name": "MeowTool mini",
+      "latest": {
+        "release": "2025.01",
+        "version": 9473,
+        "date": "2025-07-01",
+        "file": "sirius_meowtool_mini_2501.zip",
+        "size": 144459,
+        "sha256": "c58f6c0e4ffbb43a4351c01eb8befd4704996d1860cd9af95fee4030de6c25a3",
+        "url": "https://www.lnelab.com/dfu/sirius_meowtool_mini_2501.zip"
+      },
+      "history": [
+        {
+          "release": "2025.01",
+          "version": 9473,
+          "date": "2025-07-01",
+          "file": "sirius_meowtool_mini_2501.zip",
+          "size": 144459,
+          "sha256": "c58f6c0e4ffbb43a4351c01eb8befd4704996d1860cd9af95fee4030de6c25a3",
+          "url": "https://www.lnelab.com/dfu/sirius_meowtool_mini_2501.zip"
+        },
+        {
+          "release": "2024.02",
+          "version": 9218,
+          "date": "2025-03-22",
+          "file": "sirius_meowtool_mini_2402.zip",
+          "size": 142379,
+          "sha256": "225223a858dfb7f1ee9f16864d4f7bb52ff7e94623ee74bbdb15e70597ea865d",
+          "url": "https://www.lnelab.com/dfu/sirius_meowtool_mini_2402.zip"
+        }
+      ]
+    },
+    "0x4c4e:0x2071": {
+      "name": "Canis Major",
+      "half": "master",
+      "latest": {
+        "release": "2025.01",
+        "version": 9473,
+        "date": "2025-06-18",
+        "file": "sirius_cm_left_2501.zip",
+        "size": 128631,
+        "sha256": "98c17609b96aaba916991d14d948cc8a997dfb84d0d8f735e22d4ed62576211f",
+        "url": "https://www.lnelab.com/dfu/sirius_cm_left_2501.zip"
+      },
+      "history": [
+        {
+          "release": "2025.01",
+          "version": 9473,
+          "date": "2025-06-18",
+          "file": "sirius_cm_left_2501.zip",
+          "size": 128631,
+          "sha256": "98c17609b96aaba916991d14d948cc8a997dfb84d0d8f735e22d4ed62576211f",
+          "url": "https://www.lnelab.com/dfu/sirius_cm_left_2501.zip"
+        },
+        {
+          "release": "2024.02",
+          "version": 9218,
+          "date": "2025-03-22",
+          "file": "sirius_cm_left_2402.zip",
+          "size": 126327,
+          "sha256": "1e720ef561287eec5e30e47fa8549364a87562e061c74e2d349269a64d8a540b",
+          "url": "https://www.lnelab.com/dfu/sirius_cm_left_2402.zip"
+        }
+      ]
+    },
+    "0x4c4e:0x2072": {
+      "name": "Canis Major",
+      "half": "slave",
+      "latest": {
+        "release": "2025.01",
+        "version": 9473,
+        "date": "2025-06-18",
+        "file": "sirius_cm_right_2501.zip",
+        "size": 106805,
+        "sha256": "1e7ece787260c1a5f7948c6d5affb7e902b7ffa85a75847a3132fb759a183fcb",
+        "url": "https://www.lnelab.com/dfu/sirius_cm_right_2501.zip"
+      },
+      "history": [
+        {
+          "release": "2025.01",
+          "version": 9473,
+          "date": "2025-06-18",
+          "file": "sirius_cm_right_2501.zip",
+          "size": 106805,
+          "sha256": "1e7ece787260c1a5f7948c6d5affb7e902b7ffa85a75847a3132fb759a183fcb",
+          "url": "https://www.lnelab.com/dfu/sirius_cm_right_2501.zip"
+        },
+        {
+          "release": "2024.02",
+          "version": 9218,
+          "date": "2025-03-22",
+          "file": "sirius_cm_right_2402.zip",
+          "size": 106805,
+          "sha256": "876f7811775b3aee13d915d9d340ca539f7f35f098e23e4d7213bd4a11155bbd",
+          "url": "https://www.lnelab.com/dfu/sirius_cm_right_2402.zip"
+        }
+      ]
+    },
+    "0x4c4e:0x2081": {
+      "name": "Horizon 75",
+      "latest": {
+        "release": "2025.01",
+        "version": 9473,
+        "date": "2025-06-17",
+        "file": "icon_horizon75_2501.zip",
+        "size": 146355,
+        "sha256": "7d88da27dc6c130358188c9136b36e9ad9a966e8d222f18dc54f2c50e0b45d74",
+        "url": "https://www.lnelab.com/dfu/icon_horizon75_2501.zip"
+      },
+      "history": [
+        {
+          "release": "2025.01",
+          "version": 9473,
+          "date": "2025-06-17",
+          "file": "icon_horizon75_2501.zip",
+          "size": 146355,
+          "sha256": "7d88da27dc6c130358188c9136b36e9ad9a966e8d222f18dc54f2c50e0b45d74",
+          "url": "https://www.lnelab.com/dfu/icon_horizon75_2501.zip"
+        },
+        {
+          "release": "2024.02",
+          "version": 9218,
+          "date": "2025-06-15",
+          "file": "icon_horizon75_2402.zip",
+          "size": 144835,
+          "sha256": "a9af3e5ed59bf8e4add5188140c2d2f5146c18456fd1114d39f150743429f8c9",
+          "url": "https://www.lnelab.com/dfu/icon_horizon75_2402.zip"
+        }
+      ]
+    },
+    "0x4c4e:0x2091": {
+      "name": "MeowTool X2",
+      "latest": null,
+      "history": []
+    },
+    "0x4c4e:0x20a1": {
+      "name": "Manta40",
+      "latest": null,
+      "history": []
+    },
+    "0x4c4e:0x20b1": {
+      "name": "Cap45",
+      "latest": {
+        "release": "2026.01",
+        "version": 9729,
+        "date": "2026-07-30",
+        "file": "sirius_cap45_2601.zip",
+        "size": 121559,
+        "sha256": "aff23a20a1bae7fdf3f39f075c895e059077955b8e7fe74bd80ef1b728d819ed",
+        "url": "https://www.lnelab.com/dfu/sirius_cap45_2601.zip"
+      },
+      "history": [
+        {
+          "release": "2026.01",
+          "version": 9729,
+          "date": "2026-07-30",
+          "file": "sirius_cap45_2601.zip",
+          "size": 121559,
+          "sha256": "aff23a20a1bae7fdf3f39f075c895e059077955b8e7fe74bd80ef1b728d819ed",
+          "url": "https://www.lnelab.com/dfu/sirius_cap45_2601.zip"
+        }
+      ]
+    }
+  }
+}

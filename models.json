@@ -1,0 +1,103 @@
+{
+  "schema": 1,
+  "baseUrl": "https://www.lnelab.com/dfu/",
+  "source": "https://github.com/lnelab/dfu-package",
+  "models": [
+    {
+      "prefix": "sirius_linkpad",
+      "vid": "0x4c4e",
+      "pid": "0x2011",
+      "name": "LINKPAD"
+    },
+    {
+      "prefix": "sirius_linkpad_1u",
+      "vid": "0x4c4e",
+      "pid": "0x2012",
+      "name": "LINKPAD 1U"
+    },
+    {
+      "prefix": "sirius_linkpad_1u_master",
+      "vid": "0x4c4e",
+      "pid": "0x2013",
+      "name": "LINKPAD SPLIT",
+      "half": "master"
+    },
+    {
+      "prefix": "sirius_linkpad_1u_slave",
+      "vid": "0x4c4e",
+      "pid": "0x2014",
+      "name": "LINKPAD R",
+      "half": "slave"
+    },
+    {
+      "prefix": "sirius_cm_left",
+      "vid": "0x4c4e",
+      "pid": "0x2071",
+      "name": "Canis Major",
+      "half": "master"
+    },
+    {
+      "prefix": "sirius_cm_right",
+      "vid": "0x4c4e",
+      "pid": "0x2072",
+      "name": "Canis Major",
+      "half": "slave"
+    },
+    {
+      "prefix": "sirius_um_left",
+      "vid": "0x4c4e",
+      "pid": "0x2041",
+      "name": "Ursa Major",
+      "half": "master"
+    },
+    {
+      "prefix": "sirius_um_right",
+      "vid": "0x4c4e",
+      "pid": "0x2042",
+      "name": "Ursa Major",
+      "half": "slave"
+    },
+    {
+      "prefix": "sirius_meowtool_mini",
+      "vid": "0x4c4e",
+      "pid": "0x2052",
+      "name": "MeowTool mini"
+    },
+    {
+      "prefix": "sirius_meowtool_mini_ble",
+      "vid": "0x4c4e",
+      "pid": "0x2051",
+      "name": "MeowTool mini BLE"
+    },
+    {
+      "prefix": "sirius_mt_x2",
+      "vid": "0x4c4e",
+      "pid": "0x2091",
+      "name": "MeowTool X2"
+    },
+    {
+      "prefix": "sirius_manta40",
+      "vid": "0x4c4e",
+      "pid": "0x20a1",
+      "name": "Manta40"
+    },
+    {
+      "prefix": "sirius_cap45",
+      "vid": "0x4c4e",
+      "pid": "0x20b1",
+      "name": "Cap45"
+    },
+    {
+      "prefix": "lne_hammer",
+      "vid": "0x4c4e",
+      "pid": "0x2031",
+      "name": "Hammer"
+    },
+    {
+      "prefix": "icon_horizon75",
+      "vid": "0x4c4e",
+      "pid": "0x2081",
+      "name": "Horizon 75"
+    }
+  ]
+}
