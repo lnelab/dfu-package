@@ -1,5 +1,7 @@
 name: Update DFU Index
 
+# Runs whenever a package, models.json or this workflow changes, and keeps
+# index.json in sync. Use the manual trigger to re-run without a change.
 on:
   push:
     branches:
