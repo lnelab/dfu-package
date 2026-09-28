@@ -1,7 +1,10 @@
 name: Update DFU Index
 
 # Runs whenever a package, models.json or this workflow changes, and keeps
-# index.json in sync. Use the manual trigger to re-run without a change.
+# index.json in sync. Every run of that kind also notifies the receivers, even
+# when index.json did not change: overwriting a package under an existing name
+# has to refresh the docs site and LINK as well. Use the manual trigger with
+# force_dispatch to notify without pushing anything.
 on:
   push:
     branches:
@@ -55,12 +58,15 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add index.json
           git commit -m "update index.json [skip ci]"
+
+          # another push may have landed while this job was running
+          git pull --rebase origin main
           git push
 
           echo "changed=true" >> "$GITHUB_OUTPUT"
 
       - name: Notify LINK and the docs site
-        if: steps.commit.outputs.changed == 'true' || inputs.force_dispatch
+        if: github.event_name == 'push' || steps.commit.outputs.changed == 'true' || inputs.force_dispatch
         env:
           PAT: ${{ secrets.PAT }}
         run: |
