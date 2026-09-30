@@ -47,15 +47,24 @@
     "0x4c4e:0x2012": {
       "name": "LINKPAD 1U",
       "latest": {
-        "release": "2025.01",
-        "version": 9473,
-        "date": "2025-06-24",
-        "file": "sirius_linkpad_1u_2501.zip",
-        "size": 145705,
-        "sha256": "866de9ea33b80cdce134e850c4f2d4f6b119bd7f89f3635ec441bc786566fc8c",
-        "url": "https://www.lnelab.com/dfu/sirius_linkpad_1u_2501.zip"
+        "release": "2026.09",
+        "version": 9737,
+        "date": "2026-09-30",
+        "file": "sirius_linkpad_1u_2609.zip",
+        "size": 147749,
+        "sha256": "9041dfe1d3a7c4768211f93d659f4f23d5bd759c3c180c871764239ae2d7d831",
+        "url": "https://www.lnelab.com/dfu/sirius_linkpad_1u_2609.zip"
       },
       "history": [
+        {
+          "release": "2026.09",
+          "version": 9737,
+          "date": "2026-09-30",
+          "file": "sirius_linkpad_1u_2609.zip",
+          "size": 147749,
+          "sha256": "9041dfe1d3a7c4768211f93d659f4f23d5bd759c3c180c871764239ae2d7d831",
+          "url": "https://www.lnelab.com/dfu/sirius_linkpad_1u_2609.zip"
+        },
         {
           "release": "2025.01",
           "version": 9473,
