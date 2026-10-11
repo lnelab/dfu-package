@@ -370,15 +370,24 @@
     "0x4c4e:0x20b1": {
       "name": "Cap45",
       "latest": {
-        "release": "2026.01",
-        "version": 9729,
-        "date": "2026-07-30",
-        "file": "sirius_cap45_2601.zip",
-        "size": 121559,
-        "sha256": "aff23a20a1bae7fdf3f39f075c895e059077955b8e7fe74bd80ef1b728d819ed",
-        "url": "https://www.lnelab.com/dfu/sirius_cap45_2601.zip"
+        "release": "2026.09",
+        "version": 9737,
+        "date": "2026-10-11",
+        "file": "sirius_cap45_2609.zip",
+        "size": 123675,
+        "sha256": "6ebcb68ac2b5cb829162d18440e0b0c23fa01297e4d9a3ac2d1a4a524e5e370a",
+        "url": "https://www.lnelab.com/dfu/sirius_cap45_2609.zip"
       },
       "history": [
+        {
+          "release": "2026.09",
+          "version": 9737,
+          "date": "2026-10-11",
+          "file": "sirius_cap45_2609.zip",
+          "size": 123675,
+          "sha256": "6ebcb68ac2b5cb829162d18440e0b0c23fa01297e4d9a3ac2d1a4a524e5e370a",
+          "url": "https://www.lnelab.com/dfu/sirius_cap45_2609.zip"
+        },
         {
           "release": "2026.01",
           "version": 9729,
