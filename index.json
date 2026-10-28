@@ -263,15 +263,24 @@
       "name": "Canis Major",
       "half": "master",
       "latest": {
-        "release": "2025.01",
-        "version": 9473,
-        "date": "2025-06-18",
-        "file": "sirius_cm_left_2501.zip",
-        "size": 128631,
-        "sha256": "98c17609b96aaba916991d14d948cc8a997dfb84d0d8f735e22d4ed62576211f",
-        "url": "https://www.lnelab.com/dfu/sirius_cm_left_2501.zip"
+        "release": "2026.09",
+        "version": 9737,
+        "date": "2026-10-28",
+        "file": "sirius_cm_left_2609.zip",
+        "size": 133107,
+        "sha256": "46d849cfff0cab39acf86f8ff41d2e2674815cd10d23a0e4b064ad296e7558f2",
+        "url": "https://www.lnelab.com/dfu/sirius_cm_left_2609.zip"
       },
       "history": [
+        {
+          "release": "2026.09",
+          "version": 9737,
+          "date": "2026-10-28",
+          "file": "sirius_cm_left_2609.zip",
+          "size": 133107,
+          "sha256": "46d849cfff0cab39acf86f8ff41d2e2674815cd10d23a0e4b064ad296e7558f2",
+          "url": "https://www.lnelab.com/dfu/sirius_cm_left_2609.zip"
+        },
         {
           "release": "2025.01",
           "version": 9473,
