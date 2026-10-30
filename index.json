@@ -337,15 +337,24 @@
     "0x4c4e:0x2081": {
       "name": "Horizon 75",
       "latest": {
-        "release": "2025.01",
-        "version": 9473,
-        "date": "2025-06-17",
-        "file": "icon_horizon75_2501.zip",
-        "size": 146355,
-        "sha256": "7d88da27dc6c130358188c9136b36e9ad9a966e8d222f18dc54f2c50e0b45d74",
-        "url": "https://www.lnelab.com/dfu/icon_horizon75_2501.zip"
+        "release": "2026.09",
+        "version": 9737,
+        "date": "2026-10-30",
+        "file": "icon_horizon75_2609.zip",
+        "size": 149267,
+        "sha256": "9954b93aea15b2b32ceddc629aa1f748623ba1866b49fd02cac467056cd73fbe",
+        "url": "https://www.lnelab.com/dfu/icon_horizon75_2609.zip"
       },
       "history": [
+        {
+          "release": "2026.09",
+          "version": 9737,
+          "date": "2026-10-30",
+          "file": "icon_horizon75_2609.zip",
+          "size": 149267,
+          "sha256": "9954b93aea15b2b32ceddc629aa1f748623ba1866b49fd02cac467056cd73fbe",
+          "url": "https://www.lnelab.com/dfu/icon_horizon75_2609.zip"
+        },
         {
           "release": "2025.01",
           "version": 9473,
